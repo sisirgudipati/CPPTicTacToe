@@ -16,7 +16,7 @@ using namespace std;
 string lowerCase(string& s1) {
 	for (unsigned int i = 0; i < s1.length(); ++i) {
 		if (s1[i] >= 65 && s1[i] <= 92) {
-			s1[i] = s1[i] + 32; 
+			s1[i] = s1[i] + 32; //KF: hard-coded number
 		}
 	}
 	cout << s1 << endl; 

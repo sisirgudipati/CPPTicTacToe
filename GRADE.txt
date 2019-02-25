@@ -1,10 +1,16 @@
-Grader's name:
-grader's initials(used to mark comments in your code):
-Grader's email:
+Grader's name: Kalli Feinberg
+grader's initials(used to mark comments in your code): KF
+Grader's email: kfeinberg@wustl.edu
 
-Grade: /100
+Grade: 88/100
 
 Deductions: 
 The grader may leave comments throughout your graded code files. 
 Please search for the grader's initials above within you lab to find
 additional comments and feedback.
+-5 compilation error 'readIn': must return a value -- deleted repeated files to resolve this issue
+-3 out of bounds error for horizontal board
+-2 program crashed when ran with no arguments
+-1 bad color should return error
+-0 program never terminates when run with empty .txt file
+-1 hard-coded constants

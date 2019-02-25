@@ -4,7 +4,3 @@
 #include "gameBoard.h"
 using namespace std; 
 
-int readIn(ifstream& file, unsigned int& x, unsigned int& y) {
-
-
-}
