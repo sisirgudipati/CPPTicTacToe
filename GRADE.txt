@@ -11,6 +11,5 @@ additional comments and feedback.
 -5 compilation error 'readIn': must return a value -- deleted repeated files to resolve this issue
 -3 out of bounds error for horizontal board
 -2 program crashed when ran with no arguments
--1 bad color should return error
--0 program never terminates when run with empty .txt file
+-1 program never terminates when run with empty .txt file
 -1 hard-coded constants
